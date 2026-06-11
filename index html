@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GBSB-AI-Studio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>GBSB-AI-Studio</h1>
+  <p>ज्ञान • विवेक • संवाद • सृजन</p>
+</header>
+
+<div class="container">
+
+  <div class="card">
+    <h2>AI Chat</h2>
+    <button class="btn">खोलें</button>
+  </div>
+
+  <div class="card">
+    <h2>Writing Studio</h2>
+    <button class="btn">खोलें</button>
+  </div>
+
+  <div class="card">
+    <h2>Language Lab</h2>
+    <button class="btn">खोलें</button>
+  </div>
+
+</div>
+
+<footer>
+  <p>GBSB-AI-Studio v0.1</p>
+</footer>
+
+</body>
+</html>
